@@ -14,8 +14,8 @@ print("Hello, " +name+ "!")
 
 ```
 ### easy2.py
-# Expected output: 15
 ```
+# Expected output: 15
 total = 0
 for i in range(1, 6):
     total += i
